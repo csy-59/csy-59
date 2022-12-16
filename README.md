@@ -9,5 +9,5 @@
 <img src="https://img.shields.io/badge/Unity-black?style=flat-square&logo=Unity&logoColor=white">
 </p>
 
-<h3 align="center">📨Contact📨</h3>
+<h3 align="center">📨e-mail📨</h3>
 <p align="center">csy010509@gmail.com</p>
