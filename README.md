@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&idx=25&height=300&section=header&text=SeoyeonChoi&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&customColorList=19&height=300&section=header&text=SeoyeonChoi&fontSize=90)
 
 <h3 align="center">⚒️Tech Stack⚒️</h3>
 
@@ -9,5 +9,5 @@
 <img src="https://img.shields.io/badge/Unity-black?style=flat-square&logo=Unity&logoColor=white">
 </p>
 
-<h3 align="center">📨Contect📨</h3>
+<h3 align="center">📨Contact📨</h3>
 <p align="center">csy010509@gmail.com</p>
